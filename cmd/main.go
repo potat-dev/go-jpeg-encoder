@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/potat-dev/go-jpeg-encoder/bmp"
+	"github.com/potat-dev/go-jpeg-encoder/internal/bmp"
 )
 
 func main() {
